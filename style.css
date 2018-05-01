@@ -1,0 +1,48 @@
+body{
+    margin-left: 15px;
+}
+
+button.btn.btn-dark.btn-outline-light {
+  padding: 0 20px;
+}
+
+.navbar-nav .nav-link{
+  margin-right: 20px;
+}
+   
+@media (min-width: 769px){
+   .btn-responsive {
+       padding:4px 9px;
+       
+          }
+
+
+.nowrap{
+        white-space: nowrap;
+} 
+
+.nav-tabs {
+    padding-top: 30px;
+}
+
+div#description {
+    padding: 25px 20px;
+}
+
+.fa-heart {
+    color: blue;
+    margin-top: 10px;
+}
+
+.tab-pane {
+    padding-top: 20px;
+}
+.badge {
+  margin-top: 10px;
+}
+
+
+
+
+
+
